@@ -1,3 +1,3 @@
-# Parte II- Métodos não supervisonados de reconhecimento de padrões
+# Parte II - Métodos não supervisonados de reconhecimento de padrões
 
 **EM DESENVOLVIMENTO!!!**

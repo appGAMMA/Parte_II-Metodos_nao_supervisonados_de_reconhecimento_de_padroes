@@ -1,0 +1,1 @@
+# Parte_II-Metodos_nao_supervisonados_de_reconhecimento_de_padroes

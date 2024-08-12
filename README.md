@@ -1,6 +1,6 @@
 # Parte II - Métodos não supervisionados de reconhecimento de padrões
 
-**Arquivos para demonstração - Parte II - Métodos não supervisonados de reconhecimento de padrões**
+**Arquivos para demonstração - Parte II - Métodos não supervisionados de reconhecimento de padrões**
 
 Nesta pasta os usuários tem acesso aos arquivos de demonstração prática utilizando a interface de “Análise Exploratória” com estudos reais retirados da literatura:
 

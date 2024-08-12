@@ -1,4 +1,4 @@
-# Parte II - Métodos não supervisonados de reconhecimento de padrões
+# Parte II - Métodos não supervisionados de reconhecimento de padrões
 
 **Arquivos para demonstração - Parte II - Métodos não supervisonados de reconhecimento de padrões**
 
